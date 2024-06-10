@@ -6,7 +6,6 @@ nyanmisaka/jellyfin
 linuxserver/jackett
 ghcr.io/jeffvli/feishin
 xiaoyaliu/alist
-lscr.io/linuxserver
 lobehub/lobe-chat
 jgraph/drawio
 ghcr.io/jeffvli/feishin
