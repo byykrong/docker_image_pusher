@@ -9,3 +9,5 @@ xiaoyaliu/alist
 lobehub/lobe-chat
 jgraph/drawio
 ghcr.io/jeffvli/feishin
+ghcr.io/wy580477/musicn-container
+chisbread/transmission
