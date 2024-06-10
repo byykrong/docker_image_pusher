@@ -9,5 +9,4 @@ xiaoyaliu/alist
 lscr.io/linuxserver
 lobehub/lobe-chat
 jgraph/drawio
-frooodle/s-pdf
 ghcr.io/jeffvli/feishin
