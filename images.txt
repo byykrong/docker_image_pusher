@@ -13,3 +13,4 @@ ghcr.io/wy580477/musicn-container
 chisbread/transmission
 whyour/qinglong
 ghcr.io/advplyr/audiobookshelf
+dingdangdog/cashbook
