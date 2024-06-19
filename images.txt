@@ -16,3 +16,4 @@ ghcr.io/advplyr/audiobookshelf
 dingdangdog/cashbook
 ghcr.io/wy580477/musicn-container
 ghcr.io/anduin2017/how-to-cook
+rustdesk/rustdesk-server-s6
