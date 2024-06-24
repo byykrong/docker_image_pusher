@@ -18,3 +18,4 @@ ghcr.io/wy580477/musicn-container
 ghcr.io/anduin2017/how-to-cook
 rustdesk/rustdesk-server-s6
 revenz/fenrus
+ghcr.io/ajnart/homarr
