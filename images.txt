@@ -20,3 +20,4 @@ rustdesk/rustdesk-server-s6
 revenz/fenrus
 ghcr.io/ajnart/homarr
 codeberg.org/readeck/readeck
+wallabag/wallabag
